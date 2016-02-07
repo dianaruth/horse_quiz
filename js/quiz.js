@@ -1,3 +1,6 @@
+// quiz.js
+// created by Diana Ruth
+
 (function() {
     $("#quiz").css("width", window.innerWidth);
     $("#quiz").css("height", window.innerHeight);
