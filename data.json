@@ -1,0 +1,47 @@
+[
+    {
+        "question" : "What is a filly?",
+        "answers" : [
+            {"id" : 0, "text" : "A pregnant horse"},
+            {"id" : 1, "text" : "A young female horse"},
+            {"id" : 2, "text" : "A neutered horse"},
+            {"id" : 3, "text" : "A short horse"}
+        ],
+        "correct" : 1,
+        "feedback" : "A young male horse is called a colt."
+    },
+    {
+        "question" : "Select the fastest gait.",
+        "answers" : [
+            {"id" : 0, "text" : "Canter"},
+            {"id" : 1, "text" : "Rack"},
+            {"id" : 2, "text" : "Quarto"},
+            {"id" : 3, "text" : "Run"},
+            {"id" : 4, "text" : "Trot"},
+            {"id" : 5, "text" : "Walk"}
+        ],
+        "correct" : 3,
+        "feedback" : "A rack and a quarto are special gaits that only certain breeds can perform."
+    },
+    {
+        "question" : "True or False: An english saddle has a horn.",
+        "answers" : [
+            {"id" : 0, "text" : "True"},
+            {"id" : 1, "text" : "False"}
+        ],
+        "correct" : 1,
+        "feedback" : "A western saddle has a horn."
+    },
+    {
+        "question" : "Which breed of horses are used for racing?",
+        "answers" : [
+            {"id" : 0, "text" : "Quarter Horse"},
+            {"id" : 1, "text" : "Morgan"},
+            {"id" : 2, "text" : "Paso Fino"},
+            {"id" : 3, "text" : "Andalusian"},
+            {"id" : 4, "text" : "Thoroughbred"},
+            {"id" : 5, "text" : "Welsh Pony"}
+        ],
+        "correct" : 4
+    }
+]
