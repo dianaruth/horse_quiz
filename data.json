@@ -43,5 +43,38 @@
             {"id" : 5, "text" : "Welsh Pony"}
         ],
         "correct" : 4
+    },
+    {
+        "question" : "What is the normal lifespan of a horse?",
+        "answers" : [
+            {"id" : 0, "text" : "8-10 years"},
+            {"id" : 1, "text" : "40-50 years"},
+            {"id" : 2, "text" : "25-30 years"},
+            {"id" : 3, "text" : "12-15 years"}
+        ],
+        "correct" : 2,
+        "feedback" : "Orchid, a thoroughbred-arabian cross, was the oldest horse to ever live and died at age 50."
+    },
+    {
+        "question" : "From where do domestic horses originate?",
+        "answers" : [
+            {"id" : 0, "text" : "Western Asia"},
+            {"id" : 1, "text" : "Northern Europe"},
+            {"id" : 2, "text" : "South America"},
+            {"id" : 3, "text" : "Southeast Asia"}
+        ],
+        "correct" : 0,
+        "feedback" : "Domesticated horses first originated in what is now Ukraine, southwest Russia, and western Kazakhstan."
+    },
+    {
+        "question" : "What is the name of the fastest horse to ever race?",
+        "answers" : [
+            {"id" : 0, "text" : "California Chrome"},
+            {"id" : 1, "text" : "Barbaro"},
+            {"id" : 2, "text" : "Seabiscuit"},
+            {"id" : 3, "text" : "Secretariat"}
+        ],
+        "correct" : 3,
+        "feedback" : "Secretariat's nickname was 'Big Red'."
     }
 ]
